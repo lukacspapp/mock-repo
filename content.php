@@ -48,5 +48,4 @@
         echo "gkhqt";
         echo "jtowp";
         echo "wfutt";
-        echo "xgwmu";
 ?>
