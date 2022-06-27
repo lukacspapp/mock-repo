@@ -1,1 +1,1 @@
-console.log("qyote")
+console.log("hbnjb")
