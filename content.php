@@ -34,5 +34,4 @@
         echo "ntqsp";
         echo "eopux";
         echo "bgbvw";
-        echo "imiji";
 ?>
