@@ -33,5 +33,4 @@
         echo "wpeej";
         echo "ntqsp";
         echo "eopux";
-        echo "bgbvw";
 ?>
