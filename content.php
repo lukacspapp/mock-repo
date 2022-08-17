@@ -42,5 +42,4 @@
         echo "raivy";
         echo "yfook";
         echo "yqarj";
-        echo "nlbod";
 ?>
