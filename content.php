@@ -39,5 +39,4 @@
         echo "nerls";
         echo "haumu";
         echo "vedeg";
-        echo "uhkua";
 ?>
