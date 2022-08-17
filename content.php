@@ -38,5 +38,4 @@
         echo "sbocm";
         echo "nerls";
         echo "haumu";
-        echo "vedeg";
 ?>
