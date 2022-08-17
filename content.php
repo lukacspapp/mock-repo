@@ -46,5 +46,4 @@
         echo "ysowg";
         echo "lpoqc";
         echo "gkhqt";
-        echo "jtowp";
 ?>
