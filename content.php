@@ -43,5 +43,4 @@
         echo "yfook";
         echo "yqarj";
         echo "nlbod";
-        echo "lhjba";
 ?>
