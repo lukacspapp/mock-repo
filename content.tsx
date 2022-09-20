@@ -1,1 +1,1 @@
-console.log("ctekc")
+console.log("objkn")
