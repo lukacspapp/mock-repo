@@ -1,1 +1,1 @@
-console.log("ptqpl")
+console.log("ogotu")
