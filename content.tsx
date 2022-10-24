@@ -1,1 +1,1 @@
-console.log("utryi")
+console.log("yamot")
