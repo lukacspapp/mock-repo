@@ -1,1 +1,1 @@
-console.log("ttkqi")
+console.log("nugob")
