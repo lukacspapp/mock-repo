@@ -1,2 +1,2 @@
 console.log("algix")
-console.log("sgqgg")
+console.log("tjciq")
