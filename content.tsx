@@ -1,2 +1,2 @@
 console.log("algix")
-console.log("pokak")
+console.log("goyky")
