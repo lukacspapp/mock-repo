@@ -6,5 +6,4 @@
         echo "haqrj";
         echo "ktqop";
         echo "ynelr";
-        echo "bmano";
 ?>
