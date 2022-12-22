@@ -38,5 +38,4 @@
         echo "sfkvj";
         echo "fegnd";
         echo "gsjru";
-        echo "rycwd";
 ?>
