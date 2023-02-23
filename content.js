@@ -1,2 +1,2 @@
 console.log("jwksn")
-console.log("struk")
+console.log("uatjd")
