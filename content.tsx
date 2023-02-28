@@ -1,2 +1,2 @@
 console.log("ymagv")
-console.log("guvdd")
+console.log("kuhta")
