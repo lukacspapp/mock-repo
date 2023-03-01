@@ -1,2 +1,2 @@
 console.log("qisne")
-console.log("fwqiy")
+console.log("dlpmj")
