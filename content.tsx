@@ -1,2 +1,2 @@
 console.log("ymagv")
-console.log("pxvpn")
+console.log("ojofq")
