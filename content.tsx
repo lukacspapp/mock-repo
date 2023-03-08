@@ -1,2 +1,2 @@
 console.log("xijrd")
-console.log("lnpee")
+console.log("qynds")
