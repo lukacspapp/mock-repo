@@ -1,1 +1,1 @@
-console.log("smjvk")
+console.log("bkomi")
