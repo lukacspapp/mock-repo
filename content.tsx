@@ -1,2 +1,2 @@
 console.log("qisne")
-console.log("wyxnj")
+console.log("gauls")
