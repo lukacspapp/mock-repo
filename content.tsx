@@ -1,2 +1,2 @@
 console.log("qisne")
-console.log("eshqd")
+console.log("swkma")
