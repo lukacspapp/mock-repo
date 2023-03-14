@@ -1,3 +1,3 @@
 console.log("qisne")
 console.log("swkma")
-console.log("nyene")
+console.log("jqdyk")
