@@ -1,1 +1,2 @@
-console.log("wuimy")
+console.log("tocyx")
+console.log("ghgwa")
