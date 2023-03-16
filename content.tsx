@@ -1,2 +1,2 @@
 console.log("yofyb")
-console.log("dviiw")
+console.log("gomat")
