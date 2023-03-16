@@ -1,2 +1,2 @@
 console.log("rtiqj")
-console.log("flghy")
+console.log("etymd")
