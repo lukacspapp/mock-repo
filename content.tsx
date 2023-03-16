@@ -1,2 +1,2 @@
 console.log("aitnh")
-console.log("xoios")
+console.log("iqgpt")
