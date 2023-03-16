@@ -1,1 +1,2 @@
-console.log("ocopo")
+console.log("khwqt")
+console.log("cahsb")
