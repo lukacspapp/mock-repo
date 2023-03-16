@@ -1,2 +1,2 @@
 console.log("bwmhw")
-console.log("awtwg")
+console.log("rikuc")
