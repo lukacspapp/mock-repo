@@ -1,3 +1,2 @@
 console.log("rtiqj")
-console.log("mufto")
-console.log("bsunp")
+console.log("bcxtn")
