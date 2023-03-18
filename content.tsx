@@ -1,3 +1,2 @@
 console.log("yofyb")
-console.log("ingso")
-console.log("motki")
+console.log("wnitw")
