@@ -1,3 +1,2 @@
 console.log("pqtxy")
-console.log("dgdpa")
-console.log("cygqa")
+console.log("nldni")
