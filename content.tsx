@@ -1,4 +1,3 @@
 console.log("bexbb")
 console.log("ypgst")
-console.log("cxbwh")
-console.log("rusjj")
+console.log("vsxrc")
