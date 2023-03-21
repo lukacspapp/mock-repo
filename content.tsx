@@ -1,1 +1,1 @@
-console.log("okecd")
+console.log("eaplc")
