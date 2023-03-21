@@ -1,1 +1,1 @@
-console.log("wckti")
+console.log("okecd")
