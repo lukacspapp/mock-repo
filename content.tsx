@@ -1,2 +1,2 @@
 console.log("crutf")
-console.log("vahxd")
+console.log("lmbad")
