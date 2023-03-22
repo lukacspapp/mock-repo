@@ -1,1 +1,1 @@
-console.log("tynaw")
+console.log("ghurt")
