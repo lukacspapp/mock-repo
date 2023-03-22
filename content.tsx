@@ -1,1 +1,1 @@
-console.log("synah")
+console.log("sybky")
