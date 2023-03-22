@@ -1,1 +1,1 @@
-console.log("wtpyu")
+console.log("lajip")
