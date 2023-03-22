@@ -1,1 +1,1 @@
-console.log("ptdaj")
+console.log("tynaw")
