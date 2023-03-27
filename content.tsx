@@ -1,1 +1,1 @@
-console.log("ligqy")
+console.log("curoh")
