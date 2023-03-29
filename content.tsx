@@ -1,2 +1,2 @@
 console.log("gyksa")
-console.log("gqmtu")
+console.log("sikhc")
