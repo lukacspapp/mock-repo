@@ -1,2 +1,2 @@
 console.log("tniif")
-console.log("uwsgj")
+console.log("oskbo")
