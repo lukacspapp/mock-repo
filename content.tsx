@@ -1,2 +1,2 @@
 console.log("gheta")
-console.log("euhkn")
+console.log("swnmk")
