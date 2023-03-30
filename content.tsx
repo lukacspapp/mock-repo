@@ -1,2 +1,2 @@
 console.log("atxsk")
-console.log("fkssm")
+console.log("nocsc")
