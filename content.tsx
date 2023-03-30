@@ -1,2 +1,2 @@
 console.log("skxea")
-console.log("ythyd")
+console.log("eurip")
