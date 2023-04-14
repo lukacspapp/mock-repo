@@ -1,1 +1,1 @@
-console.log("bgvjd")
+console.log("bynye")
