@@ -30,5 +30,7 @@
   padding-right: 45px;
   margin-bottom: 32px;
   margin-left: 29px;
-  margin-bottom: 50px;
+  border-right-width: 20px;
+  border-bottom-width: 2px;
+  padding-bottom: 8px;
 }
