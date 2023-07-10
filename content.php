@@ -25,5 +25,4 @@
         echo "raodk";
         echo "yumxk";
         echo "sdlas";
-        echo "shneu";
 ?>
