@@ -19,5 +19,4 @@
         echo "rasav";
         echo "midxa";
         echo "ubvdv";
-        echo "bgueq";
 ?>
