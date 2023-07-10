@@ -8,4 +8,5 @@
         echo "cpvcm";
         echo "ntusf";
         echo "fcgen";
+        echo "kabao";
 ?>
