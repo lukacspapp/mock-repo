@@ -30,6 +30,5 @@
         echo "jxvla";
         echo "nibyg";
         echo "dwcep";
-        echo "dprpl";
-        echo "kasyu";
+        echo "anbgv";
 ?>
