@@ -40,5 +40,4 @@
         echo "fagbr";
         echo "sypmg";
         echo "dbcim";
-        echo "ktqol";
 ?>
