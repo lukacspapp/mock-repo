@@ -21,5 +21,4 @@
         echo "fmpja";
         echo "nehnf";
         echo "pbwgh";
-        echo "iumdr";
 ?>
