@@ -8,5 +8,4 @@
         echo "rtthh";
         echo "xekrp";
         echo "ynjur";
-        echo "nrgbx";
 ?>
