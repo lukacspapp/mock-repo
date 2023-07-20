@@ -4,5 +4,4 @@
         echo "oqlff";
         echo "iwscc";
         echo "nqfcu";
-        echo "djiiy";
 ?>
