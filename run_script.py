@@ -11,8 +11,8 @@ if not os.path.exists(local_path):
     git.Repo.clone_from(url, local_path)
 
 # Clone the private repository to a local folder
-private_repo_url = "https://bitbucket.org/atdtravel/ibs"
-private_repo_local_path = "/Users/lukacspapp/phoenix-server/ibs"  # Replace with your desired local path
+private_repo_url = "https://bitbucket.org/atdtravel/thunderbird"
+private_repo_local_path = "/Users/lukacspapp/phoenix-server/thunderbird"  # Replace with your desired local path
 if not os.path.exists(private_repo_local_path):
     git.Repo.clone_from(private_repo_url, private_repo_local_path)
 
