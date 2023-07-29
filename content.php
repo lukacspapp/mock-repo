@@ -6,5 +6,4 @@
         echo "jlcmb";
         echo "qcdos";
         echo "rtthh";
-        echo "mtscg";
 ?>
