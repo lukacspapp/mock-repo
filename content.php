@@ -5,5 +5,4 @@
         echo "ysusi";
         echo "jlcmb";
         echo "qcdos";
-        echo "tpihe";
 ?>
