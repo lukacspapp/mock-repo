@@ -4,5 +4,4 @@
         echo "ruaeu";
         echo "ysusi";
         echo "jlcmb";
-        echo "qkaux";
 ?>
