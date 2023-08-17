@@ -3,5 +3,4 @@
         echo "tesvg";
         echo "ruaeu";
         echo "lukif";
-        echo "phjny";
 ?>
