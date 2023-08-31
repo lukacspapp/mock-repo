@@ -27,4 +27,3 @@ importer = Importer([repo], mock_repo)
 importer.set_author(['papplukacs@hotmail.com', 'lukacs@atdtravelservices.co.uk'])
 
 importer.import_repository()
-print("yqbok")
