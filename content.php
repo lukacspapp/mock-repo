@@ -12,5 +12,4 @@
         echo "etkou";
         echo "lpkpi";
         echo "aojhr";
-        echo "sulpx";
 ?>
