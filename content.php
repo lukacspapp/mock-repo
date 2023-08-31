@@ -38,5 +38,4 @@
         echo "hkadr";
         echo "bhhox";
         echo "fagbr";
-        echo "sypmg";
 ?>
