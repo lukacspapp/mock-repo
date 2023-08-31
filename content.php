@@ -6,5 +6,4 @@
         echo "ayoog";
         echo "kotfr";
         echo "cpvcm";
-        echo "ntusf";
 ?>
