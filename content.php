@@ -10,5 +10,4 @@
         echo "vddqw";
         echo "afbdc";
         echo "uvcbo";
-        echo "hndjd";
 ?>
