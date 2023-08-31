@@ -20,5 +20,4 @@
         echo "gylpj";
         echo "fmpja";
         echo "nehnf";
-        echo "pbwgh";
 ?>
