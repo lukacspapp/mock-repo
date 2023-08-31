@@ -8,5 +8,4 @@
         echo "ocdow";
         echo "fdcqo";
         echo "vddqw";
-        echo "afbdc";
 ?>
