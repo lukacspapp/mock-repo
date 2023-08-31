@@ -11,5 +11,4 @@
         echo "ywgtr";
         echo "etkou";
         echo "lpkpi";
-        echo "aojhr";
 ?>
