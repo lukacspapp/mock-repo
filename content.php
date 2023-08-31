@@ -9,5 +9,4 @@
         echo "fdcqo";
         echo "vddqw";
         echo "afbdc";
-        echo "uvcbo";
 ?>
