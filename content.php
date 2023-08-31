@@ -22,5 +22,4 @@
         echo "myewr";
         echo "kufca";
         echo "nlwhq";
-        echo "raodk";
 ?>
