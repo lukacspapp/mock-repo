@@ -16,5 +16,4 @@
         echo "qecfs";
         echo "tkjji";
         echo "wyote";
-        echo "rasav";
 ?>
