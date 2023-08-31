@@ -5,5 +5,4 @@
         echo "gehss";
         echo "ayoog";
         echo "kotfr";
-        echo "cpvcm";
 ?>
