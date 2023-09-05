@@ -12,5 +12,5 @@
         echo "fcmpm";
         echo "whgxc";
         echo "cxeak";
-        echo "rbglt";
+        echo "typfw";
 ?>
