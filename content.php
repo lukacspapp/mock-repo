@@ -10,5 +10,4 @@
         echo "ejhnt";
         echo "ywgtr";
         echo "etkou";
-        echo "hieeh";
 ?>
