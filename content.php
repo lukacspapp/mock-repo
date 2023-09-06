@@ -44,5 +44,4 @@
         echo "yqarj";
         echo "nlbod";
         echo "icnio";
-        echo "kpdai";
 ?>
