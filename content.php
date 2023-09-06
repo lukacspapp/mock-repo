@@ -36,5 +36,4 @@
         echo "bgbvw";
         echo "ovspf";
         echo "hkadr";
-        echo "jsout";
 ?>
