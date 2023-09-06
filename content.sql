@@ -84,3 +84,4 @@ SELECT * from wnrro;
 SELECT * from knyax;
 SELECT * from wrtpb;
 SELECT * from njucw;
+SELECT * from jxwnb;
