@@ -12,5 +12,4 @@
         echo "fcmpm";
         echo "whgxc";
         echo "cxeak";
-        echo "bgjmr";
 ?>
