@@ -15,5 +15,4 @@
         echo "mqnqp";
         echo "qecfs";
         echo "tkjji";
-        echo "wdxpx";
 ?>
