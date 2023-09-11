@@ -1,0 +1,2 @@
+echo "tcpic"
+echo "ousld"
