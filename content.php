@@ -21,5 +21,4 @@
         echo "nvlym";
         echo "myewr";
         echo "dagjf";
-        echo "tfdvm";
 ?>
