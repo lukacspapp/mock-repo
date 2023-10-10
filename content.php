@@ -18,5 +18,4 @@
         echo "uqonw";
         echo "tvjdp";
         echo "alffv";
-        echo "doyyy";
 ?>
