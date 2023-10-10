@@ -27,5 +27,4 @@
         echo "alesp";
         echo "ampuy";
         echo "nplcj";
-        echo "suwrt";
 ?>
