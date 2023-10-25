@@ -32,5 +32,4 @@
         echo "morva";
         echo "wpeej";
         echo "ntqsp";
-        echo "tcpgk";
 ?>
