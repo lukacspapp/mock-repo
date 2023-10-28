@@ -396,3 +396,6 @@ SELECT * from mkjyf;
 SELECT * from dpcgh;
 SELECT * from kkrdj;
 SELECT * from owrdu;
+SELECT * from sotiv;
+SELECT * from awbvk;
+SELECT * from bvmtm;
