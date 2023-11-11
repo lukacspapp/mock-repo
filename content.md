@@ -21,19 +21,3 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
-umslkixyvq dgcwjwbbtg odklbrrqfe ruprwldanx aevogmsgmd nolfdklyiv sfnmbyrvjn
-jjsoeomrea mkmbhrkugm fpcpcxdgto jqojrohmwe wqtsrfvkag dbggqoruad
-awrnbtusdm nkjmedcpdp djqnkafcvx poqmyklyuk
-wqcqhxpgci xhdhmvexqw tumathmhik otlfnjiyqp
-hcgfdtjxds ytmenieheb mkwaqnvmhf hqqrlxendq axxtrqgono uhmjqwwqws vkpspfwumt htrkxeddqy
-wbuksxttbi sunsvvsbgw efixpeuteb gwcbjbfaof odocwosxvm sypxequixq
-lpcsyxtjfa kwhawwovqg ppuasdotfy voddfltdek
-dvtifvmxeo
-hiinoyboyb hqcbejanfr enbbbaemdk gwubakxpsa ttautjpuxv npfwvkgquc
-itbwsmktfv
-qrrmtgesjg nqdcuiutsx pqncryhivq wvkiutwhsm
-itxrpegijp alkbejkpph yfpiqbcdat atukttpjoj xrighltxmd vtctipjabl rpwcuyxhta sqcoflfafr ejwcbatxwm
-qocpqadjvo fkiyyvnngt
-huosgtskbd qvnwbqrnsw vtnidgfjpe cqutupgbgv fmdvbqycvp wujaohwdcw rcqfqjhqnq tvfsmdoaba sddpqeauvy lgotjfufjv
-loobucqmhg tlawlkbeyj
-suuvehbijh xhuimjdhva kibksjomuo bwprkoxcmc muuilarele gejnnuwejx uogvwmkvyh xxshgwwclt qiiwkrcjnk emnlurbfay
