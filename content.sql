@@ -395,4 +395,4 @@ SELECT * from uacqm;
 SELECT * from mkjyf;
 SELECT * from dpcgh;
 SELECT * from kkrdj;
-SELECT * from lixmo;
+SELECT * from owrdu;
