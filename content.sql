@@ -92,3 +92,6 @@ SELECT * from enean;
 SELECT * from psafn;
 SELECT * from vhvvo;
 SELECT * from huwcq;
+SELECT * from glbdu;
+SELECT * from qiupf;
+SELECT * from kuuhf;
