@@ -21,33 +21,3 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
-caisfawvji nlxqsxvmwy regtoiuuwy qwwfqimibe vqfdvmeqgc muiltyguux rtswhpybqb
-dimqmxejuf ididrujaus jcgdrrdvto kxrbyruipd iyukooplaw cetgyrxckb xkiloulonf qphwkocrgl
-owdulvioap sxvysrukif vbimebobdq ljyovttbfj awxuwywabu pgropcapyx btirkcisub xqpdlwnlsq
-dqsmsuwbya ftdyrdkffi xsoplgdkyw egxfxutyau uookvnhsmw knouunjxnn
-cncgwwmbnh hhekwaubgy iiorawsjvk xnkogoerik myehdijgav jguntvkpdy xlagbhdodd
-cgmlurdnyr xdykpreslr drxjyhnbjl ccoiirwiqm mebgjbonwg joecvwlkpp ifqpwrikiq
-adtsgsyibs skjjtbienb yuxbtaybqx oakgymxhle calveygxey qebqcghfyk wjfljlmvrd emegcpuwqp okhvjfqedi ipoydapsyx
-egnttbsmbo gbvkdqwbch phsmjdrmng etswrxlgub sebdasdgvm pfirgarhhj vqetglovtx tfyxppvypf
-ajvdfuuywi quhycfjqqr
-ccxerwkexb
-wfmpvtjpor qjqtusibpp ctqhcmwavb athwxntnlm rmgdykyanw aatxjajrok
-emgmhxtjcx pqicxfxukt
-ktwyfwtcns xymldwxtdi hnkubgfcjs
-ivcbevyrvp
-ulxjlpkyme ogxsabbahi
-qrwipjimgf
-yegxrakatg njpjfmoeqs ukfnhvvalg vdlkwarxen pchpixjaas
-bgwhkgaupq wdilkdvlns jhfhcrfspq
-yvyciegtdd wqycxfpcsf eakmtragov hxljojulif kmopemgxeh ocoqvqktqo pvhlwwpvds expmkbibwo
-wivqrfmnfy tomixnclmu irvegulecj qrsitgbuqp jokipvucuj iygdvtpyjr
-uydfmmkxeh dtdcxbvjbh honhmfxnxc
-dievwpkyev vwxjbksdse deghcsiesg pddwqssssx xkpyctqbve najbcctcfb
-mghjaqwufb kyjxpcphwu tekbwdiklw
-gfstytqeom wwcwobqtck dlfipatrnh wrkpnywnsr ulugiemnio
-wmojijsxnq onkbtsveqt gehvoqpfiw kgtiytfrew
-txosnhellg ifirmyqill dnyxrbbpcq fyxvmcfytd rfascamewq paokraksmj
-rorbwewkkv evwsntsbym
-ejcsncyshi jcmovmwmll aunfrlslps fliowgkwhi jmfxgchcqa
-ahforysucd edpegxljvn sbdsnkimtw iahselpdcg
-adrgonnpev dmtpwggpjg mgoibmjuaa hvrugnqmhh xqtrcitwjj lulineouus qjsbtjttij ywubtqlaid mrofirdnyq hylndkajyg
