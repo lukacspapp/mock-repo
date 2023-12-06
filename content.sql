@@ -85,3 +85,6 @@ SELECT * from knyax;
 SELECT * from wrtpb;
 SELECT * from njucw;
 SELECT * from jxwnb;
+SELECT * from nfeyy;
+SELECT * from gusne;
+SELECT * from ngvap;
