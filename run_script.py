@@ -11,8 +11,8 @@ if not os.path.exists(local_path):
     git.Repo.clone_from(url, local_path)
 
 # Clone the private repository to a local folder
-private_repo_url = "https://bitbucket.org/atdtravel/attraction-tickets-component-library"
-private_repo_local_path = "/Users/lukacspapp/phoenix-server/attraction-tickets-component-library"  # Replace with your desired local path
+private_repo_url = "https://bitbucket.org/atdtravel/attraction-tickets-react-services"
+private_repo_local_path = "/Users/lukacspapp/phoenix-server/attraction-tickets-react-services"  # Replace with your desired local path
 if not os.path.exists(private_repo_local_path):
     git.Repo.clone_from(private_repo_url, private_repo_local_path)
 
