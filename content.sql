@@ -84,3 +84,6 @@ SELECT * from mhlxb;
 SELECT * from royjf;
 SELECT * from xsfpc;
 SELECT * from cohnd;
+SELECT * from rqdkb;
+SELECT * from dxhdd;
+SELECT * from pxymr;
