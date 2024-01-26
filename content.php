@@ -37,5 +37,4 @@
         echo "ovspf";
         echo "sbocm";
         echo "nerls";
-        echo "mbppq";
 ?>
