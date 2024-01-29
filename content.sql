@@ -87,3 +87,6 @@ SELECT * from cohnd;
 SELECT * from rqdkb;
 SELECT * from dxhdd;
 SELECT * from pxymr;
+SELECT * from kjavl;
+SELECT * from sypod;
+SELECT * from lwmtg;
