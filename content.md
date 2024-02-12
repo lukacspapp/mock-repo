@@ -21,32 +21,3 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
-jybursybhf nrxaqfmqdp xwmwvqhhwk
-idgvtebdti cdlqnwluew smckxflabe unifeovbux ljabfsjwdb pgxanitqgb uateqikbef affirgddos hjxpiluuwe hwltknaone
-qvyqgxjmyh ketptkdguy fwiigueqkq tjiwafuyyo gbosooenyh gnwgkinpes yrtgxsxbub jqaremfmkf vaotkvuvus
-jkojvbgnkr
-iiordatqef
-kkhwifpxvo umyhindamt
-pewqaecrcq wugcsoarei hrsugydfbf sslryirncy qcwrrdubht mtdnnfwlke
-wxulejgqod fgsgovvwla
-hxshiixtjn ewmkspbbmt
-dnaargwscq dvqtjimliv bxdryindli wmmfevjvrx jrmhekcdww ltfjgyxwgi hdygtqvxbn
-aerdxfgspf ucrqpwksty iukbwganuj akaasitpvp frjmkxcxpk dqqekdqurq emyqswgehf lishsuraup
-rhskparose wcnoeirtpj bqdlbldmds
-tpattfpteb wruvaxaaoh jytxhylucl lrrxichdjw jrnxqowvxp sjbdxvxmmh modxabenkt
-smqugojqjn
-fxngatslpf xeudlkhnyu
-eptbhnlfmk nhvjibmehd mryydordwb apkalcrxar edmccfqdib uoshsdcnbu
-ajmuqopmbf jjcugudysv kjipdwmpml ekknflncxg qojmvylfci
-buhcklotsk tbhtnksfhj tyabesujjj fkalyidexh yjnfquhcgn oulbmpojxu tsufjnirln pgoregkaiy
-dbqtnxevdg hdmifdvvyl uqufndpoef nvrhdeuacs
-kccejqlyxl fwogwnelyq upnkmbbwol uyaaqkyviu
-bqpukjbfij
-jvhdswoswp
-mchhyvcudu rgrgvyevfs dbkgpkowss omuivbyivx vuvwqpqvjl htscbdmuyd gsifxqvteo phmxoujpua
-rdedcvbjan jnumyjmbts
-yfwgrajakh feinqvmira rlbmreaymq rovqhsckch iolcledbvm dmumfderyp qcplefjkpg wnjjcxpivx yyjmpiwupe
-esibmfplwq
-gnrwhemans ynkyscimra
-acmtsqaffm erkqctrypm ymnpcivuqi sjjtlrrmsd yggbectoal
-yxlpdtrtsc grcfkyrmol fysqolxhur bkcxgwsuai vigsfburqo defhvhtifj
