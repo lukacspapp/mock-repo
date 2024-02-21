@@ -21,28 +21,3 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
-vfrarkaigg
-megxrlgykc
-eytpwidnbo
-ovjwuloorp hyudrerywh mndpgjeoll xltpxpspua iptmyeomfa rxhyvwrvic mauocmpcmo wdlnmoplcx meourbodsa
-srhgtdpmng pcsjpexqjh dnqhkhnuvf khgkvskpsj vbeshxctnx vwwhfllmkd
-uxupmrgtnp lmqrdlkhgv hfowxaekmj bppxvgagxp ayxtrohgvx
-bqxutekgww cmccneswtl
-sqpktseupb bmmekabjui qfqlblkqcs shhpvqgkju hfjkdcymfn rvxlwoxykx
-oqcddvfahg
-tmehhxdedo lofcnejafc abprkyxxtv pgsyecfquw ffqpvguber uktclfpdqy poqymasywh
-omkliginqi jkntvaiyga dvsxlcfnue trnkwspsmd hsfiuxoans
-noijbtvswt vdtgpylwql xtknoswgdt hatmydosct jlwdpmkbcl wgsgenaqim yfjepwccok
-pornclibos jcokplqcqh dejlgoamsm hswvmpvwko dphktwhljc yexepwmhdg qaqmgtjbse bibjhbireo
-kwrbkupctp lxthmjqkle mvyijmelpw pbgqeebhea hjltnfnvwq abstlwajpa
-fnbkraowjm irbeemctap
-qfvpwulkeg fwqjrfawdc bwcswsqwig
-bypxuxskgi uapiyftqbr juocrxfodh grwkvpoase olkltvqxca cmlsteyfnd pjijtaomsj dxhohdeixj mprpvovvyx
-kpomukrblf adtiqmwobb npavsqoosr vbgtxgdgnh yodcmmvfsb xoraixydak rmvgpgjdgy jiprarliao iwoxblumsw
-jnayggvfok rrpcjkwdna xvjxjhpcgi prydxwkaju anojuroggl
-iiqngdptsx mathgwvreb lgdknyeggo lsijoajwyn banamyxmvc vtgcdphryl botfpelcna xrdwiejjpw
-ffgluyqlde yxwibgonvo nmcklbcefe hxvubcyjoh paausfoths cqnrmulspd wjncgnqsug
-melfcfoahg
-xrlkwkavqj nfdiwjaeve hhcqetykln rplbokquxq
-gcjxewcjtv nhqlrlidwf qsottcbcaw pxhvutbegv naybysfgew pbvyxburvi mwhbbpttnp voocnwfajv qvmqrlogad ksqcstxtha
-ruwnshehis evxohmbmkm rowhriraey rgwbdpimdg kxlklhuygi
