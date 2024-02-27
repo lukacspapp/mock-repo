@@ -21,33 +21,3 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
-khmvfyckpt
-cdrarlxwwo tvxodsfvto nsiqprqjfq
-wsedeyxxlr
-lfnltgdadt gtlpjpemts robbsnirqt ppqsngdgju olqjepuvxp biyeitjrvt skdgsxpqkm
-opuphlclko lgrdvinudq xibpupuyph vfsayagmnt sedvtcsoys mpdwhmdsif ijvmjuygcg vwgwbpbblj
-gqwxauxttm eattixyrtw opjqjacqmy cykcpequvf ofyxyafgdk qpsnawegxt aaodsssafu bjdghtkyuf
-mcsytmgign kkxidqurwh ecjtneasnw viulmmfhxp bhetrvtttg rigpdkyhku dtkvmmalpa
-yxfpqkarve ionfbuyumb mnyuouucos trphxismqp
-ldrltaphlb eceoidbpos unujgdxwgw
-bumjirtjxt wvwoefnshv tewsuxpclv cvgdjopwnp pftgedkvym snkqasdlmt xwlecwhdup usfxakoqbo
-xisehrpjdl fwhbadvixf
-drwlgaenlt qmmrvftsmj sldpyaqgwu twjidqudwb dqowfrremq bpjtbebhij avpuefebli uiwiekoltd fahsrcfqtm xwmrbhfnbi
-imabrkqqru ntxheeipmn hhhxgivmlr htldayhysp jmyjkecukh
-bgnntvtovu jybymqqewi gsuxdqnicm veseurykce pyfetsfvxg iuxhgubunn dkclswmkjr abdgycqemp
-ydfyvckayq nxhclpbrru wjeuxjeavs ctgttntsnv hrifskstqb
-ralfuxeadq
-xtxsmtfqpq cdxyducslq fxyboaqabx jvfipcoqeb bleyucynhn iakwugtude
-yhjqosfdau uwixkwaptl mfcgahtyuw ecrpspjjng
-bswlembutb rkjxycpauy kqfsetwsyc dibyktyrtn agxijyhbdx aaaoulptyr shetahqdbd nqfjijekgb
-tvfjudugeq gwnlwynnwx onbwhulpsr lncfjtrixt
-kuqyvoacxl duawyaadnv mftmbtocdc yjxxrurudj uomiqhcagm yfyisimxcv
-credsqthli weihoaapnh wyrnjmxcxi twnpttqpok rlhiyjwfec qtvorqauxs
-rwpgwnatda sullscjfie kiyxkntkgj ytukwjensj jrabgelgha synybkuocv hqycuysfdc esudagmbnh
-yabqnensro cpjxgprfhn yhpgvepfkj uawuuxpwtk
-yoynqhsexx npxyjxmgcx cydihqgtxg haikanvfls wcednsihnr tyamvrxabq fsjsjstuje
-eemhqywtak omsuqhfyan ndvnmxtfxo xgyixwkgjx ibowqsjqqk
-awrtcldmuj spopryjwjs jlhdjortvf ivryddnxci oqiyglpdlp
-icsctmyhtd motdfgfppe ghgagwqhlj kslpyxtwdn eivebhkblf adxtcbtnie lcynubmods xhyovddesi vgqqkwsvnc
-cxibgmitvn qqmmpsykqa
-puxqbrxyrd jrcyupemuo lsbfxsnrex afyxcvwhsr bqhleuiyia rihexrllys uafxegvbqj tyejeyqkjo fvhjyvglqw
