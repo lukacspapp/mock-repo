@@ -1,8 +1,0 @@
-echo "jranx"
-echo "uqvcx"
-echo "qmkrs"
-echo "gnwwn"
-echo "ilqfm"
-echo "hkjqb"
-echo "xdfjn"
-echo "lketb"
