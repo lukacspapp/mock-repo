@@ -1,5 +1,0 @@
-echo "gibws"
-echo "opits"
-echo "wacfj"
-echo "afqgu"
-echo "dkvnx"
