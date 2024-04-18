@@ -393,3 +393,6 @@ SELECT * from yafgh;
 SELECT * from qpsse;
 SELECT * from lmyun;
 SELECT * from gbfgr;
+SELECT * from ifoay;
+SELECT * from hthee;
+SELECT * from gogww;
