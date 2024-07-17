@@ -5,3 +5,4 @@ SELECT * from sbyuh;
 SELECT * from sjrxn;
 SELECT * from obeuw;
 SELECT * from lxdlw;
+SELECT * from vvwvs;
