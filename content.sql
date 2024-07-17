@@ -4,3 +4,4 @@ SELECT * from meiws;
 SELECT * from sbyuh;
 SELECT * from sjrxn;
 SELECT * from obeuw;
+SELECT * from lxdlw;
