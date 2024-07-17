@@ -11,3 +11,4 @@ SELECT * from eysck;
 SELECT * from vsjin;
 SELECT * from tbeji;
 SELECT * from cttiv;
+SELECT * from juceh;
