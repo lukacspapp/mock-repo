@@ -89,3 +89,6 @@ SELECT * from nfeyy;
 SELECT * from gusne;
 SELECT * from ngvap;
 SELECT * from enean;
+SELECT * from psafn;
+SELECT * from vhvvo;
+SELECT * from huwcq;
