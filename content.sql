@@ -10,3 +10,4 @@ SELECT * from prdop;
 SELECT * from eysck;
 SELECT * from vsjin;
 SELECT * from tbeji;
+SELECT * from cttiv;
