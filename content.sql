@@ -13,3 +13,4 @@ SELECT * from tbeji;
 SELECT * from cttiv;
 SELECT * from juceh;
 SELECT * from wlmyb;
+SELECT * from mpblb;
