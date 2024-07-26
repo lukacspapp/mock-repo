@@ -90,3 +90,6 @@ SELECT * from pxymr;
 SELECT * from kjavl;
 SELECT * from sypod;
 SELECT * from lwmtg;
+SELECT * from ibkww;
+SELECT * from kcinx;
+SELECT * from dbmvk;
