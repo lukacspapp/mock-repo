@@ -12,8 +12,8 @@ if not os.path.exists(local_path):
     git.Repo.clone_from(url, local_path)
 
 # Clone the private repository to a local folder
-private_repo_url = "https://bitbucket.org/jentis/admin-backend/src/master/"
-private_repo_local_path = "/Users/lukacspapp/JENTIS/admin-backend"  # Replace with your desired local path
+private_repo_url = "https://bitbucket.org/jentis/cronjob-raw-data-export/src/master/"
+private_repo_local_path = "/Users/lukacspapp/JENTIS/cronjob-raw-data-export"  # Replace with your desired local path
 if not os.path.exists(private_repo_local_path):
     git.Repo.clone_from(private_repo_url, private_repo_local_path)
 
@@ -39,3 +39,6 @@ importer.set_commit_max_amount_changes(-1) # start importing from the last commi
 importer.set_author(['papplukacs@hotmail.com', 'lukacs.papp@jentis.com', '90268306+lukacspapp@users.noreply.github.com'])
 
 importer.import_repository()
+
+# pipenv shell
+# python3 run_script.py
