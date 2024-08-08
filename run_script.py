@@ -12,8 +12,8 @@ if not os.path.exists(local_path):
     git.Repo.clone_from(url, local_path)
 
 # Clone the private repository to a local folder
-private_repo_url = "https://bitbucket.org/jentis/cronjob-raw-data-export/src/master/"
-private_repo_local_path = "/Users/lukacspapp/JENTIS/cronjob-raw-data-export"  # Replace with your desired local path
+private_repo_url = "https://bitbucket.org/jentis/arch2-request-creator/src/6a52d4987e6790d54ec1fd9d9f0e379e5bbdf14c/?at=feature%2FSD-402-add-vendorid-information-to--test"
+private_repo_local_path = "/Users/lukacspapp/JENTIS/arch2-request-creator"  # Replace with your desired local path
 if not os.path.exists(private_repo_local_path):
     git.Repo.clone_from(private_repo_url, private_repo_local_path)
 
