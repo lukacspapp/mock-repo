@@ -1,2 +1,0 @@
-echo "umcmy"
-echo "xodfo"
