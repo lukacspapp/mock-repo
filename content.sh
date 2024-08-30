@@ -1,8 +1,0 @@
-echo "jtrke"
-echo "yvqvl"
-echo "ucbii"
-echo "rgysj"
-echo "qesyg"
-echo "uhgdl"
-echo "tpusc"
-echo "xefqy"
